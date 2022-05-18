@@ -7,8 +7,8 @@
   <strong><a href="https://yuehan99.top/">公众号： 何安的笔记</a></strong> |
   <strong><a href="https://blog.csdn.net/m0_49413017?spm=1010.2135.3001.5421">CSDN</a></strong> |
   <strong><a href="https://space.bilibili.com/351534170">B站</a></strong> |
-  <strong><a href="https://juejin.im/user/2981531267112520">掘金</a></strong>  |
-  <strong><a href="https://yuehan99.top">前端博客网站</a></strong>  
+  <strong><a href="https://juejin.cn/user/1372625489112471">掘金</a></strong>  |
+  <strong><a href="https://yuehan77.top">前端博客网站</a></strong>  
 </p>
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Chocolate1999/count.svg" /></a>
 
